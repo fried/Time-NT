@@ -1,0 +1,14 @@
+0.004  Thu Jul	9 15:08:19 2010
+	- Removed the use of 'parent'
+	- Changed a test up to use the ':all' export tag.
+        - Added a test::more requirement in the makefile.
+
+0.003  Thu Jul 	8 10:37:00 2010
+	- Fixing Documentation from name change
+
+0.002  Thu Jul  8 09:08:10 2010
+	- Renamed to Time::NT
+ 	- Added nt_time()
+
+0.001  Wed Jul  7 15:39:02 2010
+	- original version; created by Jason Fried
