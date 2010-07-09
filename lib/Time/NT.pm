@@ -1,10 +1,10 @@
 package Time::NT;
 
-use 5.008008;
+use 5.006_001;
 use strict;
 use warnings;
 
-our $VERSION = '0.004';
+our $VERSION = '0.005';
 
 our (@ISA, @EXPORT_OK, %EXPORT_TAGS);
 BEGIN {
