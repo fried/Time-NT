@@ -1,4 +1,4 @@
-use 5.008008;
+use 5.006_001;
 use inc::Module::Install 0.87;
 
 name('Time-NT');
