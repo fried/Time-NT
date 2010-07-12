@@ -1,3 +1,7 @@
+0.006  Mon Jul 12 15:33:10 UTC 2010
+	- Removed Perl version from Makefile.PL
+	- Added Repo Information to Makefile.PL
+
 0.005  Fri Jul  9 18:06:26 UTC 2010
 	- Lowered the perl version requirement
 
