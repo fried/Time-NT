@@ -20,4 +20,4 @@ no_index:
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/fried/Time-NT
-version: 0.006
+version: 0.007

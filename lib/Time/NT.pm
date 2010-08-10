@@ -4,7 +4,7 @@ use 5.006_001;
 use strict;
 use warnings;
 
-our $VERSION = '0.006';
+our $VERSION = '0.007';
 
 our (@ISA, @EXPORT_OK, %EXPORT_TAGS);
 BEGIN {
